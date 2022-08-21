@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #E5E5E5;
+    background-color: #EEF9BF;
 }
 
 
@@ -38,7 +38,12 @@ flex-wrap: wrap;
     width: 100px;
 }
 
-.front-card {
+.back-img {
+    height: 100px;
+    width: 100px;  
+}
+
+.card {
     height: 146px;
     width: 117px;
     background-color: #A7E9AF;
